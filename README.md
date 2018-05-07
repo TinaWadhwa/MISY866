@@ -27,5 +27,5 @@ My research showcases use of python by focussing on below questions about crypto
 * Clone a Git repository in newly created project folder. Link :- https://github.com/TinaWadhwa/MISY866
 * If git clone is successful (you will see hidden .git folder)
 * Once you are at above path you will see BTC_ETH_COMPARE.ipynb file.
-* Run the file 
+* Open the file in Jupyter Notebook and run all the cells.
 
