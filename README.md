@@ -28,4 +28,4 @@ My research showcases use of python by focussing on below questions about crypto
 * If git clone is successful (you will see hidden .git folder)
 * Once you are at above path you will see BTC_ETH_COMPARE.ipynb file.
 * Run the file 
-* You must see the Test case pass during the above run.
+
