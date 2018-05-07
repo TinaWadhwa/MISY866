@@ -24,6 +24,6 @@ My research showcases use of python by focussing on below questions about crypto
 ## Installation and Deployment
 * Open your command line
 * Create a new project folder
-* Clone a Git repository in newly created project folder. Link :- 
+* Clone a Git repository in newly created project folder. Link :- https://github.com/TinaWadhwa/MISY866
 * If git clone is successful (you will see hidden .git folder)
 * Once you are at above path you will see 
